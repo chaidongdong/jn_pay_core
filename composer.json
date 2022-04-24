@@ -1,0 +1,15 @@
+{
+    "name": "chaidong/jn_pay_core",
+    "autoload": {
+        "psr-4": {
+            "Chaidong\\JnPayCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "柴冬冬",
+            "email": "cdd549967852@gmail.com"
+        }
+    ],
+    "require": {}
+}
